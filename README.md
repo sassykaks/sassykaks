@@ -1,4 +1,4 @@
--  Hi, I’m @sassykaks
+-  Hey, I’m @sassykaks
 - 🌱 I’m currently learning R, Python, and SQL
 
 
